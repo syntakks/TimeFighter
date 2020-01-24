@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Time Fighter</string>
+    <string name="current_score">Current Score: %1$d</string>
+    <string name="time_remaining">Time Remaining: %1$d</string>
+    <string name="button_text">Tap!</string>
+    <string name="game_over_text">Times Up! Your score was: %1$d</string>
+    <string name="about_menu">About</string>
+    <string name="about_title">Time Fighter</string>
+    <string name="about_message">Hey thanks for checking out my little app! Check us out at syntaks.io</string>
+</resources>
